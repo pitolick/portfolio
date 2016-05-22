@@ -1,0 +1,35 @@
+== Changelog ==
+
+Version 1.1.2 (June 24, 2015)
+    * Fix for blog item image layout
+
+Version 1.1.1 (April 1, 2015)
+    * Sell Media 1.9.2 integration
+
+= Version 1.1 (Dec 3, 2014) =
+    * Sell Media items order options added
+    * No background color issue fix
+    * Submodule updated
+
+= Version 1.0.6 (June 16, 2014) =
+    * Instagram social icon support added
+
+= Version 1.0.5 (June 4, 2014) =
+    * Sell Media integration grid issue fix
+
+= Version 1.0.4 (May 22, 2014) =
+    * Integration with Sell Media 1.9.4
+    * Rely on core Lightbox
+
+= Version 1.0.3 (May 2, 2014) =
+    * Slideshow height 0 fix
+
+= Version 1.0.2 (Mar 6, 2014) =
+    * Social Media icons instruction added.
+
+= Version 1.0.1 (Mar 4, 2014) =
+    * Popular social icons added
+    * Removed instructions for media settings
+
+= Version 1.0 (Feb 3, 2014) =
+    * Initial release

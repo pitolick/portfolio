@@ -1,0 +1,734 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Onesie Pro\n"
+"POT-Creation-Date: 2014-02-05 11:20-0500\n"
+"PO-Revision-Date: 2014-02-05 11:21-0500\n"
+"Last-Translator: Thad Allender <support@graphpaperpress.com>\n"
+"Language-Team: Thad Allender <support@graphpaperpress.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive-portfolio.php:33 archive.php:33
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive-portfolio.php:41 archive.php:41
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive-portfolio.php:44 archive.php:44
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive-portfolio.php:47 archive.php:47
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive-portfolio.php:50 archive.php:50
+msgid "Asides"
+msgstr ""
+
+#: archive-portfolio.php:53 archive.php:53
+msgid "Images"
+msgstr ""
+
+#: archive-portfolio.php:56 archive.php:56
+msgid "Videos"
+msgstr ""
+
+#: archive-portfolio.php:59 archive.php:59
+msgid "Quotes"
+msgstr ""
+
+#: archive-portfolio.php:62 archive.php:62
+msgid "Links"
+msgstr ""
+
+#: archive-portfolio.php:65 archive.php:65
+msgid "Archives"
+msgstr ""
+
+#: archive-sell_media_item.php:73 taxonomy-collection.php:203
+#: taxonomy-keywords.php:74 taxonomy-licenses.php:75
+msgid "Nothing Found"
+msgstr ""
+
+#: comments.php:17
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:61
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: content-page.php:27 content.php:31
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:29 entry-footer.php:49 page-blog-list.php:47
+#: page-blog.php:71 page-collections.php:149 page-dashboard.php:45
+#: page-lightbox.php:191 page-portoflio.php:45 page-sellmedia.php:89
+msgid "Edit"
+msgstr ""
+
+#: content-portfolio.php:38 entry-footer.php:23
+msgid "Client: "
+msgstr ""
+
+#: content-portfolio.php:40 entry-footer.php:29
+msgid "Date: "
+msgstr ""
+
+#: content.php:15 single-portfolio.php:21
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: entry-footer.php:38
+msgid ", "
+msgstr ""
+
+#: entry-footer.php:54
+msgid "Leave a comment"
+msgstr ""
+
+#: entry-footer.php:54
+msgid "1"
+msgstr ""
+
+#: entry-footer.php:54
+msgid "%"
+msgstr ""
+
+#: footer.php:5
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:7
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: footer.php:8
+msgid "Back to top"
+msgstr ""
+
+#: functions.php:27
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:54 index.php:53
+msgid "Learn More"
+msgstr ""
+
+#: header.php:61
+msgid "Menu"
+msgstr ""
+
+#: index.php:62 index.php:81 section-portfolio.php:36 theme-options.php:235
+#: inc/custom-post-types.php:22
+msgid "Portfolio"
+msgstr ""
+
+#: index.php:63 index.php:112 theme-options.php:270
+msgid "About"
+msgstr ""
+
+#: index.php:64 index.php:124 theme-options.php:283
+msgid "Contact"
+msgstr ""
+
+#: page-collections.php:131 taxonomy-collection.php:136
+msgid " images in "
+msgstr ""
+
+#: page-collections.php:131 taxonomy-collection.php:136
+msgid " collection"
+msgstr ""
+
+#: page-collections.php:134 taxonomy-collection.php:139
+msgid "Starting at "
+msgstr ""
+
+#: page-collections.php:151 page-dashboard.php:47 page-lightbox.php:193
+msgid "Please activate Sell Media plugin to use this page."
+msgstr ""
+
+#: page-dashboard.php:23
+msgid "Your Information: "
+msgstr ""
+
+#: page-dashboard.php:27
+msgid "Username: "
+msgstr ""
+
+#: page-dashboard.php:28
+msgid "Email: "
+msgstr ""
+
+#: page-dashboard.php:29
+msgid "First Name: "
+msgstr ""
+
+#: page-dashboard.php:30
+msgid "Last Name: "
+msgstr ""
+
+#: page-dashboard.php:36
+msgid "Purchase History: "
+msgstr ""
+
+#: page-dashboard.php:41
+msgid "You must be logged into the view this page."
+msgstr ""
+
+#: page-dashboard.php:43
+msgid "Lost your password?"
+msgstr ""
+
+#: page-lightbox.php:35
+msgid " Email to friend"
+msgstr ""
+
+#: page-lightbox.php:64 page-lightbox.php:138
+msgid "Remove from lightbox"
+msgstr ""
+
+#: page-lightbox.php:108 page-lightbox.php:181 page-lightbox.php:185
+msgid "Your lightbox is empty"
+msgstr ""
+
+#: section-about.php:22 section-contact.php:22
+msgid "Read more"
+msgstr ""
+
+#: single-sell_media_item.php:43
+msgid "Starting at"
+msgstr ""
+
+#: single-sell_media_item.php:47
+msgid "Save to lightbox"
+msgstr ""
+
+#: single-sell_media_item.php:47
+msgid "Saved to lightbox"
+msgstr ""
+
+#: single-sell_media_item.php:50
+msgid "File ID"
+msgstr ""
+
+#: single-sell_media_item.php:51
+msgid "Creator"
+msgstr ""
+
+#: single-sell_media_item.php:54
+msgid "Collections"
+msgstr ""
+
+#: single-sell_media_item.php:58
+msgid "Licenses"
+msgstr ""
+
+#: single-sell_media_item.php:69
+msgid "Keywords"
+msgstr ""
+
+#: taxonomy-collection.php:19 taxonomy-keywords.php:15
+#: taxonomy-licenses.php:15
+msgid "This collection is hidden."
+msgstr ""
+
+#: taxonomy-keywords.php:25
+msgid "Keyword Archives"
+msgstr ""
+
+#: taxonomy-licenses.php:25
+msgid "License Archives"
+msgstr ""
+
+#: theme-options.php:11 theme-options.php:15
+msgid "General"
+msgstr ""
+
+#: theme-options.php:16
+msgid "General Settings"
+msgstr ""
+
+#: theme-options.php:25 theme-options.php:29
+msgid "Colors"
+msgstr ""
+
+#: theme-options.php:30
+msgid "Colors Settings"
+msgstr ""
+
+#: theme-options.php:81
+msgid "Sortable Sections"
+msgstr ""
+
+#: theme-options.php:99
+msgid "Homepage"
+msgstr ""
+
+#: theme-options.php:113
+msgid "Logo"
+msgstr ""
+
+#: theme-options.php:114
+msgid "Use a transparent png or jpg image"
+msgstr ""
+
+#: theme-options.php:124
+msgid "Favicon"
+msgstr ""
+
+#: theme-options.php:125
+msgid "Use a transparent png or ico image"
+msgstr ""
+
+#: theme-options.php:135
+msgid "Headline Font"
+msgstr ""
+
+#: theme-options.php:136 theme-options.php:148
+msgid "<a href=\""
+msgstr ""
+
+#: theme-options.php:147
+msgid "Body Font"
+msgstr ""
+
+#: theme-options.php:159
+msgid "Message"
+msgstr ""
+
+#: theme-options.php:160
+msgid "Add a welcome message below your site title."
+msgstr ""
+
+#: theme-options.php:171
+msgid "Button Link"
+msgstr ""
+
+#: theme-options.php:172
+msgid "The url where your button links to."
+msgstr ""
+
+#: theme-options.php:183
+msgid "Button Text"
+msgstr ""
+
+#: theme-options.php:184
+msgid "The text appearing on your button."
+msgstr ""
+
+#: theme-options.php:197
+msgid "Select an image orientation layout."
+msgstr ""
+
+#: theme-options.php:206
+msgid "Horizontal"
+msgstr ""
+
+#: theme-options.php:210
+msgid "Square"
+msgstr ""
+
+#: theme-options.php:214
+msgid "Vertical"
+msgstr ""
+
+#: theme-options.php:222
+msgid "section order setting"
+msgstr ""
+
+#: theme-options.php:223
+msgid "Stores the order of the sections"
+msgstr ""
+
+#: theme-options.php:236
+msgid "Show portfolio on homepage"
+msgstr ""
+
+#: theme-options.php:245 theme-options.php:307
+msgid "yes"
+msgstr ""
+
+#: theme-options.php:249 theme-options.php:311
+msgid "no"
+msgstr ""
+
+#: theme-options.php:257
+msgid "Blog"
+msgstr ""
+
+#: theme-options.php:258
+msgid "Select blog category"
+msgstr ""
+
+#: theme-options.php:271
+msgid "Add some information about yourself."
+msgstr ""
+
+#: theme-options.php:284
+msgid "Your contact information"
+msgstr ""
+
+#: theme-options.php:297
+msgid "Sell Media"
+msgstr ""
+
+#: theme-options.php:298
+msgid "Show Sell Media items on homepage"
+msgstr ""
+
+#: theme-options.php:319
+msgid "Color"
+msgstr ""
+
+#: theme-options.php:320
+msgid "Select a color palette"
+msgstr ""
+
+#: theme-options.php:329
+msgid "Light"
+msgstr ""
+
+#: theme-options.php:333
+msgid "Dark"
+msgstr ""
+
+#: theme-options.php:340
+msgid "Custom CSS"
+msgstr ""
+
+#: theme-options.php:341
+msgid "Add some custom CSS to your theme."
+msgstr ""
+
+#: inc/custom-post-meta.php:9
+msgid "Project Details"
+msgstr ""
+
+#: inc/custom-post-meta.php:23
+msgid "Year"
+msgstr ""
+
+#: inc/custom-post-meta.php:27
+msgid "Client"
+msgstr ""
+
+#: inc/custom-post-meta.php:31 options/options.php:698
+msgid "URL"
+msgstr ""
+
+#: inc/custom-post-types.php:21
+msgid "Portfolios"
+msgstr ""
+
+#: inc/custom-post-types.php:23
+msgid "Add New"
+msgstr ""
+
+#: inc/custom-post-types.php:24 inc/custom-post-types.php:25
+msgid "Add Portfolio"
+msgstr ""
+
+#: inc/custom-post-types.php:26
+msgid "View Portfolio"
+msgstr ""
+
+#: inc/custom-post-types.php:27
+msgid "Search Portfolios"
+msgstr ""
+
+#: inc/custom-post-types.php:28
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/custom-post-types.php:29
+msgid "All Portfolios"
+msgstr ""
+
+#: inc/custom-post-types.php:30
+msgid "No Portfolio found"
+msgstr ""
+
+#: inc/custom-post-types.php:31
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: inc/custom-taxonomies.php:18
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr ""
+
+#: inc/custom-taxonomies.php:19
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: inc/custom-taxonomies.php:20
+msgid "Search Categories"
+msgstr ""
+
+#: inc/custom-taxonomies.php:21
+msgid "All Categories"
+msgstr ""
+
+#: inc/custom-taxonomies.php:22
+msgid "Parent Category"
+msgstr ""
+
+#: inc/custom-taxonomies.php:23
+msgid "Parent Category:"
+msgstr ""
+
+#: inc/custom-taxonomies.php:24
+msgid "Edit Category"
+msgstr ""
+
+#: inc/custom-taxonomies.php:25
+msgid "Update Category"
+msgstr ""
+
+#: inc/custom-taxonomies.php:26
+msgid "Add New Category"
+msgstr ""
+
+#: inc/custom-taxonomies.php:27
+msgid "New Category Name"
+msgstr ""
+
+#: inc/custom-taxonomies.php:28
+msgid "Categories"
+msgstr ""
+
+#: inc/custom-taxonomies.php:44
+msgid "Tags"
+msgstr ""
+
+#: inc/extras.php:47
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:72 options/library/helpers.php:15
+msgid "-- Choose One --"
+msgstr ""
+
+#: inc/extras.php:104
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/extras.php:107
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/extras.php:115
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/extras.php:117 inc/extras.php:135
+msgid "(Edit)"
+msgstr ""
+
+#: inc/extras.php:135
+msgid "Pingback:"
+msgstr ""
+
+#: inc/extras.php:155
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/extras.php:159 inc/postnav.php:34
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/extras.php:163 inc/postnav.php:38
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/postnav.php:16
+msgid "Post navigation"
+msgstr ""
+
+#: inc/postnav.php:23
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/postnav.php:24
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: inc/posts.php:17
+#, php-format
+msgid ""
+"<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" >%4$s</time></"
+"a><span class=\"byline\"> <span class=\"sep\"> by </span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: inc/posts.php:23
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/posts.php:37
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" "
+"datetime=\"%3$s\" >%4$s</time></a>"
+msgstr ""
+
+#: inc/posts.php:60 inc/posts.php:63
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/widgets.php:20
+msgid "Sidebar (Sell Media Single Items)"
+msgstr ""
+
+#: inc/widgets/sell-media-exif.php:27
+msgid "Camera "
+msgstr ""
+
+#: inc/widgets/sell-media-exif.php:32
+msgid "Apperture "
+msgstr ""
+
+#: inc/widgets/sell-media-exif.php:37
+msgid "Focal Length "
+msgstr ""
+
+#: inc/widgets/sell-media-exif.php:42
+msgid "Shutter Speed "
+msgstr ""
+
+#: inc/widgets/sell-media-exif.php:60
+msgid "ISO "
+msgstr ""
+
+#: inc/widgets/sell-media-exif.php:64
+msgid "Credit "
+msgstr ""
+
+#: inc/widgets/sell-media-exif.php:69
+msgid "Date "
+msgstr ""
+
+#: inc/widgets/sell-media-exif.php:74 inc/widgets/sell-media-exif.php:76
+msgid "Copyright "
+msgstr ""
+
+#: inc/widgets/sell-media-exif.php:76
+msgid "by "
+msgstr ""
+
+#: options/options.php:128 options/options.php:131
+#: options/library/theme-customizer.php:49
+msgid "Theme Options"
+msgstr ""
+
+#: options/options.php:166
+msgid " settings updated successfully."
+msgstr ""
+
+#: options/options.php:177
+msgid "Save Settings"
+msgstr ""
+
+#: options/options.php:178
+msgid "Reset Defaults"
+msgstr ""
+
+#: options/options.php:371 options/options.php:391 options/options.php:410
+msgid ""
+"This option has no valid options. Please create valid options as an array "
+"inside the GPP Framework."
+msgstr ""
+
+#: options/options.php:493
+msgid "Upload or Select Image"
+msgstr ""
+
+#: options/options.php:494 options/options.php:589
+msgid "Remove"
+msgstr ""
+
+#: options/options.php:588
+msgid "Upload or Select Images"
+msgstr ""
+
+#: options/options.php:684
+msgid "Version: "
+msgstr ""
+
+#: options/options.php:685
+msgid "Support"
+msgstr ""
+
+#: options/options.php:686
+msgid "Theme Instructions"
+msgstr ""
+
+#: options/options.php:686
+msgid "Instructions"
+msgstr ""

@@ -1,0 +1,27 @@
+/* Light */
+
+.main-navigation,
+#up {
+    background-color: transparent;
+}
+.scrolling,
+.scrolling ul ul {
+    background-color: #fff;
+}
+.site-header a,
+.site-header a:visited {
+    color: #333;
+}
+.site-header a:hover {
+    color: #555;
+}
+.hentry {
+	background-color: rgba(255,255,255,0.8);
+	padding: 5%;
+}
+.btn-translucent {
+	background-color: rgba(255,255,255,0.3);
+}
+.btn-translucent:hover {
+	background-color: rgba(255,255,255,0.8);
+}

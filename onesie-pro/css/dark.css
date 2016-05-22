@@ -1,0 +1,46 @@
+/* Dark */
+
+.main-navigation,
+#up {
+    background-color: rgba( 0, 0, 0, .2 );
+}
+.scrolling,
+.scrolling ul ul {
+    background-color: #000;
+}
+.site-header a,
+.site-header a:visited {
+    color: rgba(255,255,255,0.9);
+}
+.site-header a:hover {
+    color: rgba(255,255,255,1);
+		text-decoration: none;
+}
+body {
+    color: #fff;
+    color: rgba(255,255,255,1);
+}
+.hentry {
+	background-color: rgba(0,0,0,0.3);
+	padding: 5%;
+	color: #fff;
+}
+a,
+.hentry a {
+	color: #fff;
+}
+a:hover,
+.hentry a:hover {
+	color: #f23e2f;
+	text-decoration: underline;
+}
+.btn-translucent {
+	background-color: rgba(0,0,0,0.3);
+}
+.btn-translucent:hover {
+	background-color: rgba(0,0,0,0.8);
+}
+.item-decrement a,
+.item-increment a {
+	color: #111;
+}
